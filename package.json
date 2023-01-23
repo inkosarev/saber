@@ -1,0 +1,22 @@
+{
+  "name": "saber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkosarev/saber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkosarev/saber/issues"
+  },
+  "homepage": "https://github.com/inkosarev/saber#readme",
+  "dependencies": {
+    "mathjs": "^11.5.0"
+  }
+}
